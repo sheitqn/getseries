@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetSerie</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="gotaccount">Already has account! Login here</string>
+    <string name="regaccount">Register New Account</string>
+
+</resources>
